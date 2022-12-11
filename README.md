@@ -9,3 +9,19 @@ The hangman game is a multiplayer game. In this game, one player selects a word.
 5. Inside the while loop, if the user guesses the correct character, itwill include it in the response. Otherwise, it will notify the user that they made a mistake.
 6. If the user is able to guess all the characters of the word within the maximum number of attempts, they win the game.
 7. If the user exhausts all their attempts before guessing the entire word, they lose.
+
+<img src="data/Screenshot (5).png" height="240" >
+
+
+## Libraries
+* Time
+
+
+
+## Requirements
+* VS Code
+* Python
+
+## Code 
+
+* [Code](code/main.py)
